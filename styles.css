@@ -1,0 +1,23 @@
+body {
+  padding: 20px;
+}
+
+.chart-container {
+  position: relative;
+  margin: auto;
+  height: auto;
+  width: auto;
+}
+
+h1 {
+  color: rgb(9, 92, 155);
+  margin-bottom: 30px;
+}
+
+h3 {
+  margin-bottom: 20px;
+}
+
+#tasksChart {
+  height: 450px;
+}
